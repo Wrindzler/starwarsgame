@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+venv/
+env/
+.env
+
+# IDE
+.vscode/
+.idea/
+
+# Audio files
+*.mp3
+
+# Large binary files
+*.pdf
+
+# OS specific
+.DS_Store
+Thumbs.db 
